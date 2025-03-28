@@ -15,6 +15,11 @@
     <link rel="icon" type="image/jpeg" href="ryan.jpg">
 	<script>
     if (window.location.pathname.endsWith("index.html")) {
+        window.location.replace("/");
+    }
+	</script>
+	<script>
+    if (window.location.pathname.endsWith("index.html")) {
         window.history.replaceState(null, "", "/");
     }
 	</script>
