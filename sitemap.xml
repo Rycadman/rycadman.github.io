@@ -12,4 +12,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+	<loc>https://www.ryancadman.com/coneyrevs.html</loc>
+	<lastmod>2025-03-31</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+  </url>
 </urlset>
